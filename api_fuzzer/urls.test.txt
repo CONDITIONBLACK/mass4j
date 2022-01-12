@@ -1,0 +1,10 @@
+google.com
+netflix.com
+ftl.netflix.com
+prod.ftl.netflix.com
+api-global.netflix.com
+microsoft.com
+www.google.com
+ichnaea.netflix.com
+netflix.net
+data.microsoft.com
